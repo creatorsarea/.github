@@ -17,7 +17,7 @@ Créé en 2018, Creators Area regroupe aujourd'hui +100 000 développeurs, graph
   </a>
 </p>
 
-### De quoi parlent nos membres sur Discord ?
+<!-- ### De quoi parlent nos membres sur Discord ?
 
 
 <p align="left">
@@ -57,7 +57,7 @@ Créé en 2018, Creators Area regroupe aujourd'hui +100 000 développeurs, graph
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
-
+-->
 
 ### Nos liens
 
