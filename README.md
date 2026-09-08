@@ -1,2 +1,2 @@
 # .github
-Un Discord pour les développeurs
+A Discord for developers
