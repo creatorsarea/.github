@@ -4,7 +4,7 @@ Hi 👋 My name is Creators Area
 A Discord for developers
 ------------------------
 
-Founded in 2018, Creators Area now brings together 100,000+ passionate developers, designers and video editors. Our Discord is where our members chat, help each other out, find gigs, or just hang out together!
+Founded in 2018, Creators Area now brings together 100,000+ passionate developers, designers and video editors. Our Discord is where our members chat, help each other out, find freelance work, or just hang out together!
 
 * 🖥️  Feel free to have a look at [our website](https://creatorsarea.fr)
 * ✉️  You can reach us at zaros[at]creatorsarea.fr
